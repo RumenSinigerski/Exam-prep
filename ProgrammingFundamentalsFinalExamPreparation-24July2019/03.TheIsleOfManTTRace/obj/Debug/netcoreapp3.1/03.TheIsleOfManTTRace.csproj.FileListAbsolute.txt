@@ -1,0 +1,13 @@
+D:\C#\ProgrammingFundamentalsFinalExamPreparation-24July2019\03.TheIsleOfManTTRace\bin\Debug\netcoreapp3.1\03.TheIsleOfManTTRace.exe
+D:\C#\ProgrammingFundamentalsFinalExamPreparation-24July2019\03.TheIsleOfManTTRace\bin\Debug\netcoreapp3.1\03.TheIsleOfManTTRace.deps.json
+D:\C#\ProgrammingFundamentalsFinalExamPreparation-24July2019\03.TheIsleOfManTTRace\bin\Debug\netcoreapp3.1\03.TheIsleOfManTTRace.runtimeconfig.json
+D:\C#\ProgrammingFundamentalsFinalExamPreparation-24July2019\03.TheIsleOfManTTRace\bin\Debug\netcoreapp3.1\03.TheIsleOfManTTRace.runtimeconfig.dev.json
+D:\C#\ProgrammingFundamentalsFinalExamPreparation-24July2019\03.TheIsleOfManTTRace\bin\Debug\netcoreapp3.1\03.TheIsleOfManTTRace.dll
+D:\C#\ProgrammingFundamentalsFinalExamPreparation-24July2019\03.TheIsleOfManTTRace\bin\Debug\netcoreapp3.1\03.TheIsleOfManTTRace.pdb
+D:\C#\ProgrammingFundamentalsFinalExamPreparation-24July2019\03.TheIsleOfManTTRace\obj\Debug\netcoreapp3.1\03.TheIsleOfManTTRace.csprojAssemblyReference.cache
+D:\C#\ProgrammingFundamentalsFinalExamPreparation-24July2019\03.TheIsleOfManTTRace\obj\Debug\netcoreapp3.1\03.TheIsleOfManTTRace.csproj.CoreCompileInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExamPreparation-24July2019\03.TheIsleOfManTTRace\obj\Debug\netcoreapp3.1\03.TheIsleOfManTTRace.AssemblyInfoInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExamPreparation-24July2019\03.TheIsleOfManTTRace\obj\Debug\netcoreapp3.1\03.TheIsleOfManTTRace.AssemblyInfo.cs
+D:\C#\ProgrammingFundamentalsFinalExamPreparation-24July2019\03.TheIsleOfManTTRace\obj\Debug\netcoreapp3.1\03.TheIsleOfManTTRace.dll
+D:\C#\ProgrammingFundamentalsFinalExamPreparation-24July2019\03.TheIsleOfManTTRace\obj\Debug\netcoreapp3.1\03.TheIsleOfManTTRace.pdb
+D:\C#\ProgrammingFundamentalsFinalExamPreparation-24July2019\03.TheIsleOfManTTRace\obj\Debug\netcoreapp3.1\03.TheIsleOfManTTRace.genruntimeconfig.cache
