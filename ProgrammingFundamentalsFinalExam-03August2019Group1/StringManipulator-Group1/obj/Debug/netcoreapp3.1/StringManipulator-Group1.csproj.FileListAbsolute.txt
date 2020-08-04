@@ -1,0 +1,13 @@
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group1\StringManipulator-Group1\bin\Debug\netcoreapp3.1\StringManipulator-Group1.exe
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group1\StringManipulator-Group1\bin\Debug\netcoreapp3.1\StringManipulator-Group1.deps.json
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group1\StringManipulator-Group1\bin\Debug\netcoreapp3.1\StringManipulator-Group1.runtimeconfig.json
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group1\StringManipulator-Group1\bin\Debug\netcoreapp3.1\StringManipulator-Group1.runtimeconfig.dev.json
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group1\StringManipulator-Group1\bin\Debug\netcoreapp3.1\StringManipulator-Group1.dll
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group1\StringManipulator-Group1\bin\Debug\netcoreapp3.1\StringManipulator-Group1.pdb
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group1\StringManipulator-Group1\obj\Debug\netcoreapp3.1\StringManipulator-Group1.csprojAssemblyReference.cache
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group1\StringManipulator-Group1\obj\Debug\netcoreapp3.1\StringManipulator-Group1.csproj.CoreCompileInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group1\StringManipulator-Group1\obj\Debug\netcoreapp3.1\StringManipulator-Group1.AssemblyInfoInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group1\StringManipulator-Group1\obj\Debug\netcoreapp3.1\StringManipulator-Group1.AssemblyInfo.cs
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group1\StringManipulator-Group1\obj\Debug\netcoreapp3.1\StringManipulator-Group1.dll
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group1\StringManipulator-Group1\obj\Debug\netcoreapp3.1\StringManipulator-Group1.pdb
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group1\StringManipulator-Group1\obj\Debug\netcoreapp3.1\StringManipulator-Group1.genruntimeconfig.cache
