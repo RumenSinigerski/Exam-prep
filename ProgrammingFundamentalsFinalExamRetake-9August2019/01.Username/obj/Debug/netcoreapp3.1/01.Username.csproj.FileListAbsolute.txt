@@ -1,0 +1,13 @@
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\01.Username\bin\Debug\netcoreapp3.1\01.Username.exe
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\01.Username\bin\Debug\netcoreapp3.1\01.Username.deps.json
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\01.Username\bin\Debug\netcoreapp3.1\01.Username.runtimeconfig.json
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\01.Username\bin\Debug\netcoreapp3.1\01.Username.runtimeconfig.dev.json
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\01.Username\bin\Debug\netcoreapp3.1\01.Username.dll
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\01.Username\bin\Debug\netcoreapp3.1\01.Username.pdb
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\01.Username\obj\Debug\netcoreapp3.1\01.Username.csprojAssemblyReference.cache
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\01.Username\obj\Debug\netcoreapp3.1\01.Username.csproj.CoreCompileInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\01.Username\obj\Debug\netcoreapp3.1\01.Username.AssemblyInfoInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\01.Username\obj\Debug\netcoreapp3.1\01.Username.AssemblyInfo.cs
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\01.Username\obj\Debug\netcoreapp3.1\01.Username.dll
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\01.Username\obj\Debug\netcoreapp3.1\01.Username.pdb
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\01.Username\obj\Debug\netcoreapp3.1\01.Username.genruntimeconfig.cache

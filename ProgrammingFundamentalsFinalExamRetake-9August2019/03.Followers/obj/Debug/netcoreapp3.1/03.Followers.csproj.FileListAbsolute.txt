@@ -1,0 +1,13 @@
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\03.Followers\bin\Debug\netcoreapp3.1\03.Followers.exe
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\03.Followers\bin\Debug\netcoreapp3.1\03.Followers.deps.json
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\03.Followers\bin\Debug\netcoreapp3.1\03.Followers.runtimeconfig.json
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\03.Followers\bin\Debug\netcoreapp3.1\03.Followers.runtimeconfig.dev.json
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\03.Followers\bin\Debug\netcoreapp3.1\03.Followers.dll
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\03.Followers\bin\Debug\netcoreapp3.1\03.Followers.pdb
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\03.Followers\obj\Debug\netcoreapp3.1\03.Followers.csprojAssemblyReference.cache
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\03.Followers\obj\Debug\netcoreapp3.1\03.Followers.csproj.CoreCompileInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\03.Followers\obj\Debug\netcoreapp3.1\03.Followers.AssemblyInfoInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\03.Followers\obj\Debug\netcoreapp3.1\03.Followers.AssemblyInfo.cs
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\03.Followers\obj\Debug\netcoreapp3.1\03.Followers.dll
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\03.Followers\obj\Debug\netcoreapp3.1\03.Followers.pdb
+D:\C#\ProgrammingFundamentalsFinalExamRetake-9August2019\03.Followers\obj\Debug\netcoreapp3.1\03.Followers.genruntimeconfig.cache
