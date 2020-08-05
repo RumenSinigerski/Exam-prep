@@ -1,0 +1,13 @@
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\03.HeroRecruitment\bin\Debug\netcoreapp3.1\03.HeroRecruitment.exe
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\03.HeroRecruitment\bin\Debug\netcoreapp3.1\03.HeroRecruitment.deps.json
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\03.HeroRecruitment\bin\Debug\netcoreapp3.1\03.HeroRecruitment.runtimeconfig.json
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\03.HeroRecruitment\bin\Debug\netcoreapp3.1\03.HeroRecruitment.runtimeconfig.dev.json
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\03.HeroRecruitment\bin\Debug\netcoreapp3.1\03.HeroRecruitment.dll
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\03.HeroRecruitment\bin\Debug\netcoreapp3.1\03.HeroRecruitment.pdb
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\03.HeroRecruitment\obj\Debug\netcoreapp3.1\03.HeroRecruitment.csprojAssemblyReference.cache
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\03.HeroRecruitment\obj\Debug\netcoreapp3.1\03.HeroRecruitment.csproj.CoreCompileInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\03.HeroRecruitment\obj\Debug\netcoreapp3.1\03.HeroRecruitment.AssemblyInfoInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\03.HeroRecruitment\obj\Debug\netcoreapp3.1\03.HeroRecruitment.AssemblyInfo.cs
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\03.HeroRecruitment\obj\Debug\netcoreapp3.1\03.HeroRecruitment.dll
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\03.HeroRecruitment\obj\Debug\netcoreapp3.1\03.HeroRecruitment.pdb
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\03.HeroRecruitment\obj\Debug\netcoreapp3.1\03.HeroRecruitment.genruntimeconfig.cache

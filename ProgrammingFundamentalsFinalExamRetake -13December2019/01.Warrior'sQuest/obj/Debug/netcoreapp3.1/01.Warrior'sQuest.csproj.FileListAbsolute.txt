@@ -1,0 +1,13 @@
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\01.Warrior'sQuest\bin\Debug\netcoreapp3.1\01.Warrior'sQuest.exe
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\01.Warrior'sQuest\bin\Debug\netcoreapp3.1\01.Warrior'sQuest.deps.json
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\01.Warrior'sQuest\bin\Debug\netcoreapp3.1\01.Warrior'sQuest.runtimeconfig.json
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\01.Warrior'sQuest\bin\Debug\netcoreapp3.1\01.Warrior'sQuest.runtimeconfig.dev.json
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\01.Warrior'sQuest\bin\Debug\netcoreapp3.1\01.Warrior'sQuest.dll
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\01.Warrior'sQuest\bin\Debug\netcoreapp3.1\01.Warrior'sQuest.pdb
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\01.Warrior'sQuest\obj\Debug\netcoreapp3.1\01.Warrior'sQuest.csprojAssemblyReference.cache
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\01.Warrior'sQuest\obj\Debug\netcoreapp3.1\01.Warrior'sQuest.csproj.CoreCompileInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\01.Warrior'sQuest\obj\Debug\netcoreapp3.1\01.Warrior'sQuest.AssemblyInfoInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\01.Warrior'sQuest\obj\Debug\netcoreapp3.1\01.Warrior'sQuest.AssemblyInfo.cs
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\01.Warrior'sQuest\obj\Debug\netcoreapp3.1\01.Warrior'sQuest.dll
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\01.Warrior'sQuest\obj\Debug\netcoreapp3.1\01.Warrior'sQuest.pdb
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\01.Warrior'sQuest\obj\Debug\netcoreapp3.1\01.Warrior'sQuest.genruntimeconfig.cache

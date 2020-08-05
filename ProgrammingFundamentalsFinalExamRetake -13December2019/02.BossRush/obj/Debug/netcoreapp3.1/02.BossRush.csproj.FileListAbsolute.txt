@@ -1,0 +1,13 @@
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\02.BossRush\bin\Debug\netcoreapp3.1\02.BossRush.exe
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\02.BossRush\bin\Debug\netcoreapp3.1\02.BossRush.deps.json
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\02.BossRush\bin\Debug\netcoreapp3.1\02.BossRush.runtimeconfig.json
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\02.BossRush\bin\Debug\netcoreapp3.1\02.BossRush.runtimeconfig.dev.json
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\02.BossRush\bin\Debug\netcoreapp3.1\02.BossRush.dll
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\02.BossRush\bin\Debug\netcoreapp3.1\02.BossRush.pdb
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\02.BossRush\obj\Debug\netcoreapp3.1\02.BossRush.csprojAssemblyReference.cache
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\02.BossRush\obj\Debug\netcoreapp3.1\02.BossRush.csproj.CoreCompileInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\02.BossRush\obj\Debug\netcoreapp3.1\02.BossRush.AssemblyInfoInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\02.BossRush\obj\Debug\netcoreapp3.1\02.BossRush.AssemblyInfo.cs
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\02.BossRush\obj\Debug\netcoreapp3.1\02.BossRush.dll
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\02.BossRush\obj\Debug\netcoreapp3.1\02.BossRush.pdb
+D:\C#\ProgrammingFundamentalsFinalExamRetake -13December2019\02.BossRush\obj\Debug\netcoreapp3.1\02.BossRush.genruntimeconfig.cache
