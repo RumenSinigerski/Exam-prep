@@ -1,0 +1,13 @@
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.exe
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.deps.json
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.runtimeconfig.json
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.runtimeconfig.dev.json
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.dll
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.pdb
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.csprojAssemblyReference.cache
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.csproj.CoreCompileInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.AssemblyInfoInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.AssemblyInfo.cs
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.dll
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.pdb
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.exe
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.deps.json
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.runtimeconfig.json
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.runtimeconfig.dev.json
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.dll
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.pdb
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.csprojAssemblyReference.cache
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.csproj.CoreCompileInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.AssemblyInfoInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.AssemblyInfo.cs
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.dll
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.pdb
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.genruntimeconfig.cache
