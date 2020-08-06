@@ -1,0 +1,13 @@
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\03.BattleManager\bin\Debug\netcoreapp3.1\03.BattleManager.exe
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\03.BattleManager\bin\Debug\netcoreapp3.1\03.BattleManager.deps.json
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\03.BattleManager\bin\Debug\netcoreapp3.1\03.BattleManager.runtimeconfig.json
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\03.BattleManager\bin\Debug\netcoreapp3.1\03.BattleManager.runtimeconfig.dev.json
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\03.BattleManager\bin\Debug\netcoreapp3.1\03.BattleManager.dll
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\03.BattleManager\bin\Debug\netcoreapp3.1\03.BattleManager.pdb
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\03.BattleManager\obj\Debug\netcoreapp3.1\03.BattleManager.csprojAssemblyReference.cache
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\03.BattleManager\obj\Debug\netcoreapp3.1\03.BattleManager.csproj.CoreCompileInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\03.BattleManager\obj\Debug\netcoreapp3.1\03.BattleManager.AssemblyInfoInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\03.BattleManager\obj\Debug\netcoreapp3.1\03.BattleManager.AssemblyInfo.cs
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\03.BattleManager\obj\Debug\netcoreapp3.1\03.BattleManager.dll
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\03.BattleManager\obj\Debug\netcoreapp3.1\03.BattleManager.pdb
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\03.BattleManager\obj\Debug\netcoreapp3.1\03.BattleManager.genruntimeconfig.cache

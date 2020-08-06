@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StringManipulator-Group2/1.0.0": {
+        "runtime": {
+          "StringManipulator-Group2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringManipulator-Group2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

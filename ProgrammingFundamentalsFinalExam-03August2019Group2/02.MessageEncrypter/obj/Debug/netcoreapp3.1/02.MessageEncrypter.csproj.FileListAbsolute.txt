@@ -1,0 +1,13 @@
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\02.MessageEncrypter\bin\Debug\netcoreapp3.1\02.MessageEncrypter.exe
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\02.MessageEncrypter\bin\Debug\netcoreapp3.1\02.MessageEncrypter.deps.json
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\02.MessageEncrypter\bin\Debug\netcoreapp3.1\02.MessageEncrypter.runtimeconfig.json
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\02.MessageEncrypter\bin\Debug\netcoreapp3.1\02.MessageEncrypter.runtimeconfig.dev.json
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\02.MessageEncrypter\bin\Debug\netcoreapp3.1\02.MessageEncrypter.dll
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\02.MessageEncrypter\bin\Debug\netcoreapp3.1\02.MessageEncrypter.pdb
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\02.MessageEncrypter\obj\Debug\netcoreapp3.1\02.MessageEncrypter.csprojAssemblyReference.cache
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\02.MessageEncrypter\obj\Debug\netcoreapp3.1\02.MessageEncrypter.csproj.CoreCompileInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\02.MessageEncrypter\obj\Debug\netcoreapp3.1\02.MessageEncrypter.AssemblyInfoInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\02.MessageEncrypter\obj\Debug\netcoreapp3.1\02.MessageEncrypter.AssemblyInfo.cs
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\02.MessageEncrypter\obj\Debug\netcoreapp3.1\02.MessageEncrypter.dll
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\02.MessageEncrypter\obj\Debug\netcoreapp3.1\02.MessageEncrypter.pdb
+D:\C#\ProgrammingFundamentalsFinalExam-03August2019Group2\02.MessageEncrypter\obj\Debug\netcoreapp3.1\02.MessageEncrypter.genruntimeconfig.cache
