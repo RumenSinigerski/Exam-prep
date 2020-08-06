@@ -1,0 +1,13 @@
+D:\C#\ProgrammingFundamentalsFinalExamRetake-10April2020\03.NeedForSpeedIII\bin\Debug\netcoreapp3.1\03.NeedForSpeedIII.exe
+D:\C#\ProgrammingFundamentalsFinalExamRetake-10April2020\03.NeedForSpeedIII\bin\Debug\netcoreapp3.1\03.NeedForSpeedIII.deps.json
+D:\C#\ProgrammingFundamentalsFinalExamRetake-10April2020\03.NeedForSpeedIII\bin\Debug\netcoreapp3.1\03.NeedForSpeedIII.runtimeconfig.json
+D:\C#\ProgrammingFundamentalsFinalExamRetake-10April2020\03.NeedForSpeedIII\bin\Debug\netcoreapp3.1\03.NeedForSpeedIII.runtimeconfig.dev.json
+D:\C#\ProgrammingFundamentalsFinalExamRetake-10April2020\03.NeedForSpeedIII\bin\Debug\netcoreapp3.1\03.NeedForSpeedIII.dll
+D:\C#\ProgrammingFundamentalsFinalExamRetake-10April2020\03.NeedForSpeedIII\bin\Debug\netcoreapp3.1\03.NeedForSpeedIII.pdb
+D:\C#\ProgrammingFundamentalsFinalExamRetake-10April2020\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.csprojAssemblyReference.cache
+D:\C#\ProgrammingFundamentalsFinalExamRetake-10April2020\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.csproj.CoreCompileInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExamRetake-10April2020\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.AssemblyInfoInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExamRetake-10April2020\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.AssemblyInfo.cs
+D:\C#\ProgrammingFundamentalsFinalExamRetake-10April2020\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.dll
+D:\C#\ProgrammingFundamentalsFinalExamRetake-10April2020\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.pdb
+D:\C#\ProgrammingFundamentalsFinalExamRetake-10April2020\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.genruntimeconfig.cache
