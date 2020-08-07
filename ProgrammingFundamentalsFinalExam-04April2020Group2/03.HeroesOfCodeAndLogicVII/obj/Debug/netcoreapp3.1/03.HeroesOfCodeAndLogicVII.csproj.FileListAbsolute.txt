@@ -1,0 +1,13 @@
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.exe
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.deps.json
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.runtimeconfig.json
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.runtimeconfig.dev.json
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.dll
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.pdb
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.csprojAssemblyReference.cache
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.dll
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.pdb
+D:\C#\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.genruntimeconfig.cache
